@@ -17,7 +17,6 @@
     "beautywe"
   ],
   "pre-commit": [
-    "lint"
   ],
   "repository": {
     "type": "git",
